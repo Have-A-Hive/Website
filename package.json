@@ -1,0 +1,25 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Have-A-Hive/Website.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Have-A-Hive/Website/issues"
+  },
+  "homepage": "https://github.com/Have-A-Hive/Website#readme",
+  "dependencies": {
+    "aws-sdk": "^2.533.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "rxjs": "^6.5.3"
+  }
+}
